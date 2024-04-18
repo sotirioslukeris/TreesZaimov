@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trees", "Trees.csproj", "{38C4D613-3989-4660-A8D5-5F1ABEF0EB6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectingTables", "..\ConnectingTrees\ConnectingTables.csproj", "{9B87CA09-BFF4-4CFD-AAF8-A12744276766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C4D613-3989-4660-A8D5-5F1ABEF0EB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C4D613-3989-4660-A8D5-5F1ABEF0EB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C4D613-3989-4660-A8D5-5F1ABEF0EB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C4D613-3989-4660-A8D5-5F1ABEF0EB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B87CA09-BFF4-4CFD-AAF8-A12744276766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B87CA09-BFF4-4CFD-AAF8-A12744276766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B87CA09-BFF4-4CFD-AAF8-A12744276766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B87CA09-BFF4-4CFD-AAF8-A12744276766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB2713D4-61DC-4A4F-875E-851869889629}
+	EndGlobalSection
+EndGlobal
